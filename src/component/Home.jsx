@@ -18,7 +18,7 @@ function Home() {
         <div className='select-none overflow-hidden'>
             <div className='h-full w-full lg:flex mt-[9rem]'>
                 <div id='left' className='flex justify-center lg:w-full lg:justify-end lg:pr-[5rem]' >
-                    <img src="../src/assets/myimg.png" className='h-[26rem] w-[19rem] border-2 ' />
+                    <img src="./src/assets/myimg.png" className='h-[26rem] w-[19rem] border-2 ' />
                 </div>
 
                 <div id='right' className='lg:w-full '>
