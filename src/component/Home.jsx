@@ -5,6 +5,7 @@ import "../css/Home.css";
 import About from './About';
 import Contact from './Contact';
 import { useNavigate } from 'react-router-dom';
+import my from './assets/myimg.png';
 
 
 
@@ -18,7 +19,7 @@ function Home() {
         <div className='select-none overflow-hidden'>
             <div className='h-full w-full lg:flex mt-[9rem]'>
                 <div id='left' className='flex justify-center lg:w-full lg:justify-end lg:pr-[5rem]' >
-                    <img src="./assets/myimg.png" className='h-[26rem] w-[19rem] border-2 ' />
+                    <img src={my} className='h-[26rem] w-[19rem] border-2 ' />
                 </div>
 
                 <div id='right' className='lg:w-full '>
