@@ -18,7 +18,7 @@ function About() {
                 </p>
             <div id='aboutcontainer' className='w-screen mt-[2rem]  lg:flex lg:justify-center '>
                 <div id='left1' className=' mb-[1rem] flex justify-center '>
-                    <img src="../src/assets/laptopimg.jpg" className='reletive h-[15rem] w-[15rem] rounded-lg lg:h-[25rem] lg:w-[25rem]' />
+                    <img src="./assets/laptopimg.jpg" className='reletive h-[15rem] w-[15rem] rounded-lg lg:h-[25rem] lg:w-[25rem]' />
                 </div>
                 <div id='right' className=' '>
                     <p className=' ml-5 mr-5 text-[1.5rem] text-slate-600 border-4 rounded-lg p-[1rem]  lg:h-[25rem] lg:w-[40rem]'>
