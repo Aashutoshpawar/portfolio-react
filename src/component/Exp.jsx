@@ -9,7 +9,7 @@ function Exp() {
                 <div class="container px-5 py-10 mx-auto flex flex-col">
                     <div class="lg:w-3/6 mx-auto">
                         <div class="rounded-lg h-32 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full" src="./src/assets/cloudinfotech.jpg" />
+                            <img alt="content" class="object-cover object-center h-full w-full" src="https://drive.google.com/file/d/1IdFT6soNYO0GEOpHCRhJsl2cX3nAW6Tk/view?usp=drive_link" />
                         </div>
                         <div class="flex flex-col sm:flex-row mt-10">
                             <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8">
