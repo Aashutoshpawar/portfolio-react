@@ -19,7 +19,7 @@ function Home() {
         <div className='select-none overflow-hidden'>
             <div className='h-full w-full lg:flex mt-[9rem]'>
                 <div id='left' className='flex justify-center lg:w-full lg:justify-end lg:pr-[5rem]' >
-                    <img src="https://media.licdn.com/dms/image/D4D35AQEDfaj56u4Psg/profile-framedphoto-shrink_400_400/0/1717264097510?e=1718431200&v=beta&t=-y0qTlT5k_1kmb1HccVz3h0LctNd1wQUYY3MqDAy-KM" className='h-[26rem] w-[19rem] border-2 ' />
+                    <img src="/assets/myimg.png" className='h-[26rem] w-[19rem] border-2 ' />
                 </div>
 
                 <div id='right' className='lg:w-full '>
