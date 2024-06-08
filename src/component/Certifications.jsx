@@ -10,7 +10,7 @@ function Certifications() {
                         <div class="p-4 lg:w-1/2 md:w-full">
                             <div class="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 pt-0 sm:flex-row flex-col">
                                
-                                    <img src="https://i.pinimg.com/564x/8d/0c/72/8d0c72f49aaa0a6a35d34c7b98035baa.jpg" className='mt-5 mb-3rem h-[5rem] w-[3rem] mr-5'/>
+                                    <img src="https://i.pinimg.com/564x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg" className='mt-5 mb-3rem h-[5rem] w-[3rem] mr-5'/>
 
                                 <div class="flex-grow">
                                     <h2 class="text-gray-900 text-lg title-font font-medium mt-5  mb-3">Java with Data Stracture and Algorithms</h2>
