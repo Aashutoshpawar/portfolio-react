@@ -9,7 +9,7 @@ function Project() {
                     <div class="flex flex-wrap -m-4">
                         <div class="p-4 md:w-1/3">
                             <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                                <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://www.google.com/imgres?q=spotify%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F26%2FSpotify_logo_with_text.svg%2F1200px-Spotify_logo_with_text.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpotify_logo_with_text.svg&docid=uI-tqBZKehx4cM&tbnid=e-7qbTn4IE-JNM&vet=12ahUKEwiz8fDqpMuGAxXfrlYBHSa6BnQQM3oECGMQAA..i&w=1200&h=361&hcb=2&ved=2ahUKEwiz8fDqpMuGAxXfrlYBHSa6BnQQM3oECGMQAA   " alt="blog" />
+                                <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://www.google.com/imgres?q=spotify%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F26%2FSpotify_logo_with_text.svg%2F1200px-Spotify_logo_with_text.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpotify_logo_with_text.svg&docid=uI-tqBZKehx4cM&tbnid=e-7qbTn4IE-JNM&vet=12ahUKEwiz8fDqpMuGAxXfrlYBHSa6BnQQM3oECGMQAA..i&w=1200&h=361&hcb=2&ved=2ahUKEwiz8fDqpMuGAxXfrlYBHSa6BnQQM3oECGMQAA   "  />
                                 <div class="p-6">
                                     <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">HTML | CSS | JS</h2>
                                     <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Search N Play</h1>
