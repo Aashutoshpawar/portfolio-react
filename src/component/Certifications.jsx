@@ -21,7 +21,7 @@ function Certifications() {
                                             <li>3.Data stractures and algorithms</li>
                                         </ul>
                                     </p>
-                                    <a class="mt-3 bg-blue-500 text-black py-2 px-5 rounded inline-flex items-center" href='../src/assets/java.pdf' target="_blank">
+                                    <a class="mt-3 bg-blue-500 text-black py-2 px-5 rounded inline-flex items-center" href='./src/assets/java.pdf' target="_blank">
                                         <button>Certificate</button>
                                     </a>
                                 </div>
